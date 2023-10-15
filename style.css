@@ -17,6 +17,7 @@ header {
     display: flex;
     justify-content: space-between;
     height: 20%;
+    margin-bottom: -3%;
 }
 
 .main img {
